@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Vinicius Mendes</h1>
-<h3 align="center">Um apaixonado por Dados, Machine Learning e Matemática.</h3>
+<h3 align="center">Um ser apaixonado por Dados, Machine Learning e Matemática.</h3>
 
 - 🌱 Atualmente estou aprendendo. **Matemática para Análise de Dados e Data Science.**
 
-- 💬 Pergunte-me sobre **Python, R e SQL.**
+- 💬 Pergunte-me sobre **Python, Power BI e SQL.**
 
 - 📫 Meu email **vini777888999k@gmail.com**
 
