@@ -24,15 +24,40 @@ Actually I am studying Fundamentals of the data engineering and increasing my SQ
 - **Mathematics for Machine Learning and Data Science** - COURSERA, 2024 - <a target="_blank" href="(https://www.coursera.org/account/accomplishments/specialization/LGSV97APTY6A)">See Credential</a>;
 - **Python Language Fundamentals for Data Analysis and Data Science** - Data Science Academy, 2023 - <a target="_blank" href="https://mycourse.app/XhMj4cHHRrqFNBiD8">See Credential</a>
 - **Digital Trail | Coders 24 | Data Science** - ADA, 2024 - <a target="_blank" href="(https://ada.tech/certificado?code=1acc10d6-c727-ae6e-0687-ec73d37065bd)">See Credential</a>
+- **Santander Bootcamp 2023 - Ciência de Dados com Python** - DIO, 2023
+- **Get Started with DataBricks for Data Engineering** - DataBricks, 2024
 - **Software Engineering** - UEPA, 2027;
 - **Electroelectronic Technician** - IFPA, 2022.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinicius mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius mendes" height="30" width="40" /></a>
-<a href="https://kaggle.com/vinymd.789k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinymd.789k" height="30" width="40" /></a>
-<a href="https://instagram.com/vinymd.789k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinymd.789k" height="30" width="40" /></a>
-</p>
+## Social 🤝
+- LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/vinicius-mendes-da-silva-correa-467718260/">
+- Email: <a target="_blank" href="mailto:viniciusmendes.analyst@gmail.com">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+[<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vinicius-mendes-da-silva-correa-467718260/)
+[<img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:viniciusmendes.analyst@gmail.com)
+
+<div>
+    <h2>Technologies 🛠️</h2>
+    <div style="display: flex;">
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlite/streamlit-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+</div>
