@@ -46,8 +46,8 @@ Actually I am studying Fundamentals of the data engineering and increasing my SQ
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original-wordmark.svg" />
-        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlite/streamlit-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original-wordmark.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
