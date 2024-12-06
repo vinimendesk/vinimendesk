@@ -30,8 +30,8 @@ Actually I am studying Fundamentals of the data engineering and increasing my SQ
 - **Electroelectronic Technician** - IFPA, 2022.
 
 ## Social 🤝
-- LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/vinicius-mendes-da-silva-correa-467718260/">
-- Email: <a target="_blank" href="mailto:viniciusmendes.analyst@gmail.com">
+- LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/vinicius-mendes-da-silva-correa-467718260/">https://www.linkedin.com/in/vinicius-mendes-da-silva-correa-467718260/</a>
+- Email: <a target="_blank" href="mailto:viniciusmendes.analyst@gmail.com">viniciusmendes.analyst@gmail.com</a>
 
 [<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vinicius-mendes-da-silva-correa-467718260/)
 [<img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:viniciusmendes.analyst@gmail.com)
