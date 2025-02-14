@@ -1,13 +1,14 @@
 <h1 align="center">Hello 👋, I am Vinicius Mendes</h1>
-<h3 align="center">Data Analyst | SQL | Python | Statistic | BI |.</h3>
+<h3 align="center">Data Analyst | SQL | Python | Statistic | BI |</h3>
+<h3 align="center">Android Development | Kotlin | Jackpack Compose | KMP | Figma |</h3>
 
 ## Stats 📊
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinimendesk&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimendesk&layout=compact&theme=dark">
 
 ## Experience 💼
-I have experience in **Data Analysis**, **RPA**, **Web Scraping** and **Data Modeling**.
+I have experience in **Data Analysis**, **RPA**, **Web Scraping** and **Data Modeling** for data analyst.
 
-Actually I am studying Fundamentals of the data engineering and increasing my SQL and Statistic profiency.
+Actually I am studying android development with Kotlin/Java using JackPack Compose.
 
 ## Projects 💻
 - **Python Script for Automation, Data Processing and Excel Manipulation**: [Repository Link](https://github.com/vinimendesk/Case_Advbox-Automacao_ProcessamentoDeDados_ManipulacaoExcel); <br>
@@ -54,6 +55,9 @@ Actually I am studying Fundamentals of the data engineering and increasing my SQ
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
