@@ -11,6 +11,10 @@ I have experience in **Data Analysis**, **RPA**, **Web Scraping** and **Data Mod
 Actually I am studying android development with Kotlin/Java using JackPack Compose.
 
 ## Projects 💻
+- **Student Manage App using Kotlin and Jackpack Compose**: [Repository Link](https://github.com/vinimendesk/StudentsManagerApp); <br>
+  Project develop for help me to manage my music students and apply knowledge about local database with RoomDB.
+- **Real Projects using Python for UI, RPA and Data Manipulation**: [Repository Link](https://github.com/vinimendesk/Automation_E-ConnectValid-CodebyVoucher-); <br>
+  Project developed for solve some problems with manual works in my job. I created a UI using Flet, and use pyautogui, pandas and openpyxl.
 - **Python Script for Automation, Data Processing and Excel Manipulation**: [Repository Link](https://github.com/vinimendesk/Case_Advbox-Automacao_ProcessamentoDeDados_ManipulacaoExcel); <br>
   Project develop for a pratical test interview. They extract data from a .rar file for processing, cleaning, merging and normalization. The objective is transform tha raw data in a cleaning data in xlsx format conform model defined by stakeholder. 
 - **Exploratory Analysis LIGHTHOUSE case**: [Repository Link](https://github.com/vinimendesk/Desafio_LIGHTHOUSE_Analise_Exploratoria); <br>
