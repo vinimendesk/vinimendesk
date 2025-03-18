@@ -3,26 +3,34 @@
 <h3 align="center">Android Development | Kotlin | Jackpack Compose | KMP | Figma |</h3>
 
 ## Stats 📊
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinimendesk&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimendesk&layout=compact&theme=dark">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinimendesk&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimendesk&layout=compact&theme=dark">
+</p>
 
 ## Experience 💼
 I have experience in **Data Analysis**, **RPA**, **Web Scraping** and **Data Modeling** for data analyst.
 
-Actually I am studying android development with Kotlin/Java using JackPack Compose.
+Actually I am studying **Android Development** using **Kotlin** with **Jackpack Compose**.
 
 ## Projects 💻
-- **Student Manage App using Kotlin and Jackpack Compose**: [Repository Link](https://github.com/vinimendesk/StudentsManagerApp); <br>
-  Project develop for help me to manage my music students and apply knowledge about local database with RoomDB.
-- **Real Projects using Python for UI, RPA and Data Manipulation**: [Repository Link](https://github.com/vinimendesk/Automation_E-ConnectValid-CodebyVoucher-); <br>
-  Project developed for solve some problems with manual works in my job. I created a UI using Flet, and use pyautogui, pandas and openpyxl.
-- **Python Script for Automation, Data Processing and Excel Manipulation**: [Repository Link](https://github.com/vinimendesk/Case_Advbox-Automacao_ProcessamentoDeDados_ManipulacaoExcel); <br>
-  Project develop for a pratical test interview. They extract data from a .rar file for processing, cleaning, merging and normalization. The objective is transform tha raw data in a cleaning data in xlsx format conform model defined by stakeholder. 
-- **Exploratory Analysis LIGHTHOUSE case**: [Repository Link](https://github.com/vinimendesk/Desafio_LIGHTHOUSE_Analise_Exploratoria); <br>
-  Project for analysis inactive customers, frauds, popularity and pix impact on the transctions. Cleaning and Dashboard.
-- **Exploraty Analysis Job Opportunities Kaggle**: [Repository Link](https://github.com/vinimendesk/Exploratory_Analyts_Job_Opportunities_Kaggle); <br>
-  Cleaning and analysing data from Kaggle. Data processing, cleaning and Dashboard.
-- **Bing Automation For Earn Points**: [Repository Link](https://github.com/vinimendesk/automa-o_bing); <br>
-  RPA process for make search and open links in order to earn points on Bing.
+- **Student Manage App (Kotlin & Jetpack Compose)**: [Repository Link](https://github.com/vinimendesk/StudentsManagerApp)
+  - App for managing my music students and applying knowledge about local databases using RoomDB.
+  
+- **Real Projects with Python for UI, RPA, and Data Manipulation**: [Repository Link](https://github.com/vinimendesk/Automation_E-ConnectValid-CodebyVoucher-)
+  - Project developed to automate some manual tasks at my job, using Python, Flet, PyAutoGUI, Pandas, and Openpyxl.
+  
+- **Python Script for Automation, Data Processing, and Excel Manipulation**: [Repository Link](https://github.com/vinimendesk/Case_Advbox-Automacao_ProcessamentoDeDados_ManipulacaoExcel)
+  - Practical interview test. The script extracts data from a .rar file for processing, cleaning, merging, and normalization. The objective is to convert raw data into clean data in an Excel format based on a model defined by stakeholders.
+
+- **Exploratory Analysis of the LIGHTHOUSE Case**: [Repository Link](https://github.com/vinimendesk/Desafio_LIGHTHOUSE_Analise_Exploratoria)
+  - Analysis of inactive customers, frauds, popularity, and the impact of Pix on transactions. Data cleaning and dashboard creation.
+
+- **Exploratory Analysis of Job Opportunities (Kaggle)**: [Repository Link](https://github.com/vinimendesk/Exploratory_Analyts_Job_Opportunities_Kaggle)
+  - Data cleaning, processing, and dashboard creation using Kaggle job opportunities data.
+
+- **Bing Automation for Earning Points**: [Repository Link](https://github.com/vinimendesk/automa-o_bing)
+  - RPA process to perform searches in order to earn points on Bing.
 
 ## Certifications 🎓
 - **Google Data Analyst Professional Certificate** - COURSERA, 2023 - <a target="_blank" href="(https://www.credly.com/badges/de20ec39-e34c-44f1-b81a-eff85458ea77/linked_in_profile)">See Credential</a>;
