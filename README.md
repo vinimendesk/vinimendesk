@@ -9,7 +9,7 @@
 </p>
 
 ## Experience 💼
-I have experience in **Data Analysis**, **RPA**, **Web Scraping** and **Data Modeling** for data analyst.
+I have experience in **Data Analysis**, **RPA**, **BI** and **Data Modeling** as a data analyst.
 
 Actually I am studying **Android Development** using **Kotlin** with **Jackpack Compose**.
 
