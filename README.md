@@ -15,10 +15,10 @@ Actually I am studying **Android Development** using **Kotlin** with **Jackpack 
 
 ## Projects 💻
 - **Student Manage App (Kotlin & Jetpack Compose)**: [Repository Link](https://github.com/vinimendesk/StudentsManagerApp)
-  - App for managing my music students and applying knowledge about local databases using RoomDB.
+  - App for managing my music students, class schedule and data for analysis. Using Koltin & Jackpack Compose & RoomDB.
   
-- **Real Projects with Python for UI, RPA, and Data Manipulation**: [Repository Link](https://github.com/vinimendesk/Automation_E-ConnectValid-CodebyVoucher-)
-  - Project developed to automate some manual tasks at my job, using Python, Flet, PyAutoGUI, Pandas, and Openpyxl.
+- **Whatsapp Web Messasing Automation Using Flet(UI) and Selenium(Web Automation)**: [Repository Link](https://github.com/vinimendesk/Automation_E-ConnectValid-CodebyVoucher-)
+  - Project developed to automate the task of send large amount of messages using whatsapp web. Using Python, Flet, Selenium, Pandas, and Openpyxl.
   
 - **Python Script for Automation, Data Processing, and Excel Manipulation**: [Repository Link](https://github.com/vinimendesk/Case_Advbox-Automacao_ProcessamentoDeDados_ManipulacaoExcel)
   - Practical interview test. The script extracts data from a .rar file for processing, cleaning, merging, and normalization. The objective is to convert raw data into clean data in an Excel format based on a model defined by stakeholders.
