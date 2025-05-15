@@ -33,13 +33,14 @@ Actually I am studying **Android Development** using **Kotlin** with **Jackpack 
   - RPA process to perform searches in order to earn points on Bing.
 
 ## Certifications 🎓
-- **Google Data Analyst Professional Certificate** - COURSERA, 2023 - <a target="_blank" href="(https://www.credly.com/badges/de20ec39-e34c-44f1-b81a-eff85458ea77/linked_in_profile)">See Credential</a>;
-- **Mathematics for Machine Learning and Data Science** - COURSERA, 2024 - <a target="_blank" href="(https://www.coursera.org/account/accomplishments/specialization/LGSV97APTY6A)">See Credential</a>;
-- **Python Language Fundamentals for Data Analysis and Data Science** - Data Science Academy, 2023 - <a target="_blank" href="https://mycourse.app/XhMj4cHHRrqFNBiD8">See Credential</a>
-- **Digital Trail | Coders 24 | Data Science** - ADA, 2024 - <a target="_blank" href="(https://ada.tech/certificado?code=1acc10d6-c727-ae6e-0687-ec73d37065bd)">See Credential</a>
-- **Santander Bootcamp 2023 - Ciência de Dados com Python** - DIO, 2023
-- **Get Started with DataBricks for Data Engineering** - DataBricks, 2024
-- **Software Engineering** - UEPA, 2027;
+- **Google Data Analyst Professional Certificate** - COURSERA, 2023. - <a target="_blank" href="(https://www.credly.com/badges/de20ec39-e34c-44f1-b81a-eff85458ea77/linked_in_profile)">See Credential</a>;
+- **Mathematics for Machine Learning and Data Science** - COURSERA, 2024. - <a target="_blank" href="(https://www.coursera.org/account/accomplishments/specialization/LGSV97APTY6A)">See Credential</a>;
+- **Python Language Fundamentals for Data Analysis and Data Science** - Data Science Academy, 2023. - <a target="_blank" href="https://mycourse.app/XhMj4cHHRrqFNBiD8">See Credential</a>
+- **Digital Trail | Coders 24 | Data Science** - ADA, 2024. - <a target="_blank" href="(https://ada.tech/certificado?code=1acc10d6-c727-ae6e-0687-ec73d37065bd)">See Credential</a>
+- **Santander Bootcamp 2023 - Ciência de Dados com Python** - DIO, 2023.
+- **Get Started with DataBricks for Data Engineering** - DataBricks, 2024.
+- **Inglês** - English Academy, 2025.
+- **Software Engineering** - UEPA, 2027.
 - **Electroelectronic Technician** - IFPA, 2022.
 
 ## Social 🤝
