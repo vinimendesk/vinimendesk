@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Vinicius Mendes da Silva Correa</h1>
 <h3 align="center">🎓 Software Engineering Undergraduate</h3>
-<h3 align="center">💼 Data Analyst | Mobile Developer | Project Manager</h3>
+<h3 align="center">💼 Data Analyst | Mobile Developer</h3>
 
 ## Stats 📊
 <p align="center">
