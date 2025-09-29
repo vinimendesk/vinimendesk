@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Vinicius Mendes da Silva Correa</h1>
 <h3 align="center">🎓 Software Engineering Undergraduate</h3>
-<h3 align="center">💼 Data Analyst | Mobile Developer</h3>
+<h3 align="center">💼 Data Analyst | Android Developer</h3>
 
 ## Stats 📊
 <p align="center">
@@ -15,7 +15,7 @@
 **Data Analysis:**  
 • Excel | Power BI | Python (Pandas, NumPy, Openpyxl) | SQL | Google Apps Script | MySQL
 
-**Mobile Development:**  
+**Android Development:**  
 • Jetpack Compose | Multiplatform Compose | Firebase | Android Studio | Kotlin
 
 **Software Engineering:**  
