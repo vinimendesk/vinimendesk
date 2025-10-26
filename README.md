@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am passionate about technology and dedicated to building impactful mobile applications. My main focus is Android development, where I work with Kotlin, Jetpack Compose, and Firebase.
+I am passionate about technology and dedicated to building impactful mobile applications. My main focus is Android development, where I work with Kotlin, Jetpack Compose, and Firebase. API integration using Retrofit/Ktor and Koin for dependency injection. 
 
 ---
 
