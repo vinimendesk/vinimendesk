@@ -36,8 +36,7 @@ I am passionate about technology and dedicated to building impactful mobile appl
 
 ## 📜 Certifications
 
-- Data Analyst Professional Certificate  
-- Android Meta Developer Professional Certificate  
+- Data Analyst Professional Certificate   
 - EF SET English Certificate (B2 Upper Intermediate)  
 - Mathematics for Machine Learning and Data Science
 
