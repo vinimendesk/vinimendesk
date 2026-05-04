@@ -1,12 +1,13 @@
 # 👋 Hello, I'm Vinicius Mendes da Silva Corrêa
 
-**Software Engineering Student | Android Developer**
+**Data Analyst | Mobile Developer | Kotlin Multiplataform**
 
 ---
 
 ## 🚀 About Me
 
-I am passionate about technology and dedicated to building impactful mobile applications. My main focus is Android development, where I work with Kotlin, Jetpack Compose, and Firebase. API integration using Retrofit/Ktor and Koin for dependency injection. 
+I am passionate about technology and dedicated to building impactful mobile applications. My main focus is Mobile development, where I work with Kotlin, Jetpack Compose, Firebase and Supabase. API integration using Retrofit/Ktor and Koin for dependency injection. 
+I am using Kotlin Multiplataform for cross-development (Android, IOS, Web and Desktop)
 
 ---
 
@@ -28,7 +29,8 @@ I am passionate about technology and dedicated to building impactful mobile appl
 ## 💼 Skills
 
 - **Languages:** Kotlin, Python  
-- **Android:** Jetpack Compose, RoomDB, Firebase  
+- **Android:** Jetpack Compose, RoomDB, Firebase, Supabase
+- **Cross-Plataform:** Kotlin Multiplataform  
 - **Design:** Figma  
 - **Other:** Webscraping, Automation
 
