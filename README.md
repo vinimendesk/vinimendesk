@@ -1,56 +1,78 @@
 # 👋 Hello, I'm Vinicius Mendes da Silva Corrêa
 
-**Data Analyst | Mobile Developer | Kotlin Multiplataform**
+**Software Engineer | Android Specialist | Kotlin Multiplataform**
 
 ---
 
 ## 🚀 About Me
 
-I am passionate about technology and dedicated to building impactful mobile applications. My main focus is Mobile development, where I work with Kotlin, Jetpack Compose, Firebase and Supabase. API integration using Retrofit/Ktor and Koin for dependency injection. 
-I am using Kotlin Multiplataform for cross-development (Android, IOS, Web and Desktop)
+I am passionate about technology and dedicated to building impactful mobile applications. My main focus is cross-platform development, where I work with Kotlin Multiplatform, Jetpack Compose, Firebase and Supabase. API integration using Retrofit/Ktor and Koin for dependency injection. 
 
 ---
 
 ## 🏆 Notable Projects
 
-- **🤖 Webscraping Automation:**  
-  Automated a manual process that used to take 2–3 days; now completed in just 6 hours with a custom Selenium bot (Python).
+- **🏗️ HB20 Fuel Management**
+  Cross-platform enterprise application for fuel registration and management in construction operations. Features role-based access control (administrator/operator), equipment management, fuel records, authentication, and cloud synchronization.
+  *Stack: Kotlin Multiplatform, Compose Multiplatform, Supabase, Ktor*
 
-- **📚 Student Manage:**  
-  Android application for managing students and class schedules.  
-  *Stack: Kotlin, Jetpack Compose, RoomDB*
+- **🏢 Construtor**
+  Technical Lead and Full-Stack Developer of a construction services platform for requesting, managing, and tracking civil construction services. Responsible for system architecture, mobile development, backend integration, and project leadership.
+  *Stack: Kotlin Multiplatform, Compose Multiplatform, Supabase, Ktor, Figma*
 
-- **🗣️ Reclame Aqui!:**  
-  Android app for submitting complaints and resolving family-related issues.  
-  *Stack: Kotlin, Jetpack Compose, Firebase*
+- **🤖 Process Automation Bot**
+  Automation bot developed during my internship to eliminate repetitive manual tasks, automate data processing, and improve operational efficiency through web automation and data analysis.
+  *Stack: Python, Selenium, Pandas, OpenPyXL, Web Scraping*
 
 ---
 
 ## 💼 Skills
 
-- **Languages:** Kotlin, Python  
-- **Android:** Jetpack Compose, RoomDB, Firebase, Supabase
-- **Cross-Plataform:** Kotlin Multiplataform  
-- **Design:** Figma  
-- **Other:** Webscraping, Automation
+### 💻 Languages
+- Kotlin
+- Python
+- SQL
+
+### 📱 Mobile Development
+- Kotlin Multiplatform
+- Jetpack Compose
+- Compose Multiplatform
+- Android SDK
+- Material Design
+
+### ☁️ Backend & Cloud
+- Supabase
+- Firebase
+- Ktor
+- Retrofit
+- REST APIs
+- Authentication
+
+### 🗄️ Databases
+- RoomDB
+- SQLite
+- PostgreSQL
+
+### 🏗️ Architecture
+- MVVM
+- Repository Pattern
+- Clean Architecture
+- Dependency Injection (Koin)
+
+### 📊 Data & Automation
+- Pandas
+- NumPy
+- OpenPyXL
+- Web Scraping
+- Process Automation
+
+### 🎨 Tools
+- Git & GitHub
+- Figma
+- IntelliJ IDEA
+- Android Studio
 
 ---
-
-## 📜 Certifications
-
-- Data Analyst Professional Certificate   
-- EF SET English Certificate (B2 Upper Intermediate)  
-- Mathematics for Machine Learning and Data Science
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinimendesk&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinimendesk&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 
 ## 🌐 Connect with Me
 
@@ -62,6 +84,6 @@ I am using Kotlin Multiplataform for cross-development (Android, IOS, Web and De
 
 ## 🎵 Fun Fact
 
-Outside of tech, I am passionate about music. I enjoy singing and can play the guitar, flute, and violin.
+Besides tech, I am passionate in music. I enjoy singing and I can play guitar, flute, and violin.
 
 ---
