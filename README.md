@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vinicius Mendes da Silva Corrêa
+# 👋 Hello, I'm Vinicius Mendes
 
 **Software Engineer | Android Specialist | Kotlin Multiplataform**
 
