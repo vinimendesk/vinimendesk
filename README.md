@@ -116,6 +116,7 @@ Automation solution developed during my internship to eliminate repetitive manua
 ### 🗄️ Databases
 
 * PostgreSQL
+* DuckDB
 * RoomDB
 * SQLite
 * SQL
